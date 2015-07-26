@@ -1,0 +1,52 @@
+Bhavik Desai
+122 South St, Apt #1
+Jersey City, New Jersey 07307
+Ph No: (347) 608-7894
+E-mail: bdesai1@stevens.edu
+OBJECTIVE: To obtain a summer internship position as a web developer and designer to utilize my technical
+expertise towards the growth of the organization while being resourceful, creative and flexible.
+EDUCATION: Stevens Institute of Technology, Hoboken, New Jersey
+M.S. In Computer Science. Jan 2011 – Present.
+GPA : 3.86/4
+Gujarat University, Ahmedabad, Gujarat, India
+B.E In Computer Engineering. June 2009
+GPA : 3.65/4
+SKILLS: Programming Languages : PHP, C, C++,VB.Net, ASP.Net C#.Net, Java
+Operating System : Windows, Linux
+Database Systems : MS SQL Server, MS Access, MYSQL, PostgreSQL
+Markup and Scripting : HTML, JavaScript, CSS
+Design Tools : Photoshop, CorelDraw, MS Visio
+Development Tools : Microsoft Visual Studio, Eclipse, Adobe Dreamweaver
+Source Control System : Microsoft Visual Source Safe
+Development Methodologies : OOPS/OOAD. N-tier architecture design
+EXPERIENCE: Healthcare Informatics Pvt. Ltd.(HIPL) Baroda, INDIA
+(A Division of DigiDMS Inc, Union, New Jersey)
+Software Developer/Designer
+(Jan 2010-Jan 2011)
+Responsibilities: designing and coding of important modules of Complete EHR Product DigiDMS
+such as Patient Demographics, Graphical representation of patient’s vitals, Patient Screening, Eprescription,
+PQRI data submission which allows seamless clinical flow between front office, mid office
+and back office of Nationwide clinics.
+Development Environment: VB .net, MS SQL Server, Telerik Windows Controls, WPF
+Softcom Technologies, Baroda, INDIA
+Web Developer/Designer (Intern)
+(Jan 2009-Dec 2009)
+Responsibilities: Developing web based application to handle the back end procedures of the job
+portal site including effective searching of job candidates and employers and provide the intermediate
+between both the entities, looking for specific requirements. Modules include Advanced searching,
+resume forwarding, provide qualified job seekers to the employers and provide list of matching
+employers to the job seekers.
+Development Environment: ASP.Net, C#.Net, AJAX, JavaScript, SQL SERVER 2005
+PROJECTS: Cash For Cars Websites (PHP, HTML, CSS, JavaScript, MYSQL)
+Designing, developing of interactive websites for one of the highly ranked car buying service of new
+jersey. Successfully implemented Search engine optimization concepts to increase the website rank on
+various search engines like Google, Yahoo, and Bing.
+Project Reporting System (Visual Basic 6.0 , Microsoft Access)
+Requirement Analysis, developing of system which eliminates manual project reporting system with
+functionality automated submission of project, progress evaluation and grading.
+Event Management System (ASP, Microsoft Access)
+Designing and coding of website developed for State Level Technical festival including modules like
+registration, Event co ordination and report generation based on results of events.
+ACHIEVEMENTS: 1. Successfully cleared .Net C2C exams conducted by Microsoft.
+2. Secured 2nd rank in programming competition organized by Computer Society of India
+3. Actively participated in various web designing and programming competitions.
